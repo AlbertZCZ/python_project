@@ -1,0 +1,4 @@
+deactivate —退出当前的Python虚拟环境
+workon — 列出可用的所有虚拟环境
+workon name_of_environment —激活特定的Python虚拟环境
+rmvirtualenv name_of_environment — 移除特定的虚拟环境
